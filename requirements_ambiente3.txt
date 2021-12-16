@@ -1,0 +1,5 @@
+ Paquetes para una correcta ejecución:
+ 
+ paquete requests y faker
+ 
+ 
